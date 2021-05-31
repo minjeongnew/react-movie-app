@@ -1,0 +1,8 @@
+.Button {
+    width: 40px;
+    border-radius: 10px;
+    padding:4px;
+    margin:1px;
+    background: #22b8cf;
+    color:white
+}
